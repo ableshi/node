@@ -34,13 +34,32 @@ console.log("aaaa")
 - 列表UL
 - 列表UL
 - 列表UL
-- 列表UL
+- [x]列表UL
 
 
 1. 列表
 2. 列表
 3. 列表
 4. 列表
-5. 列表
+5. [x]列表
+
+[x]在功能上打对号 代表功能完成
 
 ---
+表格 table:
+
+| Header One     | Header Two     | Header Three   |
+| :------------- | :------------- | :------------- |
+| Item One       | Item Two       | Item Three     |
+
+MarkdownDE 一些快捷键：
+
+c+回车 = ```
+
+        ```
+
+img+tab =   ![]()
+
+b+回车 = ****
+
+ctri+shift+p 找AV具体的快捷键
